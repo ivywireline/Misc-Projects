@@ -4,6 +4,9 @@ TwitInMyFace
 Authors:
     Steven Tan
     Jason Tran
+    
+#### Important Note ######
+This file contains functions that are run by the Driver_program.py. Without the main program, this code will not run.
 """
 
 import unittest
