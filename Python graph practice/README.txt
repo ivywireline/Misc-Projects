@@ -18,5 +18,5 @@ the friends of a person, the degree of separation between 2 people, listing all 
 people that relates to the person in question by a certain degree, list all the mutual
 friends and classmates of a person and get the list of missing friends of a 
 particular person. This is explained in detail in the query function's docstrings
-in Driver_Program.py.  
+in Driver_Program.py. 
 
