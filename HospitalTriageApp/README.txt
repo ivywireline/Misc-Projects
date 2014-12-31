@@ -1,8 +1,10 @@
 This is a project for a course in university.
 It is an Android app where it allows the nurses and physicians to record and view the information of patients
-in the hospital. To log in, use the information below. The information below
-is written in the format of <<username,password,account type>>. If you want to log in
-as a nurse, you can use any of the nurses' login information and likewise
+in the hospital. 
+
+To log in, use the information below. 
+The information below is written in the format of <<username,password,account type>>. 
+If you want to log in as a nurse, you can use any of the nurses' login information and likewise
 for physicians.
 
 yorgos,34234dd,nurse
@@ -19,7 +21,36 @@ expo,v2341d,physician
 lam,xwe23,physician
 joseph,rw2323,physician
 
-Below lists all the patients that have already been registered in the hospital. The app
+
+<<Project Specifications>>
+1. Nurses can launch the triage application, which loads saved patient records from the given file
+patient_records.txt.
+2. Nurses can look up existing patients in the records based on their health card number and
+view individual patient data (name, birthdate, and health card number).
+3. Nurses can create a new visit record based on the patient's arrival time at the hospital
+4. Nurses can update a patient's visit record with vital signs (temperature, blood pressure, and
+heart rate) at a particular time, retaining older values.
+5. Nurses can save patient visit records with all the relevant collected data
+6. Nurses can view previous visit records for a given patient (if they exist). Previous records may
+have been created in previous sessions of the application. For each visit record they can view
+what data was collected at the time (temperature, blood pressure, and heart rate).
+7. Nurses and physicians can launch the triage application and log in using a username and
+password, which loads saved data, if it exists.
+8. Nurses can create new patient records and record individual patient data (name, birth date,
+and health card number)
+9. Nurses can record the date and time when a patient has been seen by a doctor.
+10. Nurses can access a list of patients (name, birth date and health card number) who have not
+yet been seen by a doctor categorized and ordered by decreasing urgency according to
+hospital policy.
+11. Using the health card number, physicians can look up a patient's record, which contains all
+data recorded about that patient.
+12. Physicians can record prescription information (name of the medication and instructions) for a
+given patient. 
+
+
+Below lists all the patients that have already been registered in the hospital. This information
+is within patient_record.txt file. You can create a custom patient_record.txt file in the Android internal
+storage if you want a different patient data. The app
 also allows you to add new patients that wish to register with the hospital. All the
 information below is fictional for the sole purpose of making the app functional.
 
