@@ -1,17 +1,8 @@
 About:
 
-This school project aims to identify the authors of mysterious files. There are mysterious files,
+This project aims to identify the authors of unknown works. There are mysterious files,
 author_function.py, author_program.py and .stat files in the repository. Python 3.3 or above is required
 in order to run author_program.py. 
-
-The author_program.py imports functions written in
-author_functions.py to generate the 5 signature numbers(explained below Procedure) 
-of a mysterious file and then match the result with
-each of the author's signature .stat files to see which
-author's signature stats have the closest approximations to
-the mysterious file. This author will then be considered as the most
-likely person to have written the content in the mysterious
-files.
 
 Procedure:
 
@@ -27,11 +18,5 @@ Procedure:
 
 5) Wait for the execution to be finished. Due to the fact that each mysterious file contains
 a whole novel, the execution may take 1 or 2 hours and even more depending on the computer.
-
-The authorship detection project cotains premade stats files for authors
-Agatha Christie, Alexandre Dumas, Brothers Grim, Charles Dickens,
-Douglas Adams, Emily Bronte, Fyodor Dostoevsky, James Joyce,
-Jane Austen, Lewis Caroll, Mark Twain, Sir Arthur Conan Doyle
-and William Shakespeare. 
 
 
