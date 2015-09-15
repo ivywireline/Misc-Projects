@@ -1,11 +1,5 @@
 About:
 
-The Python graph practice is a school project that 
-I have done with my partner Jason Tran in the
-class of CSC148 - Introduction to Computer Science 
-at the University of Toronto. The descriptions
-and examples in Driver_Program are provided by our professor 
-Jonathan Lung at http://csc148-20145.heresjono.com/content/ab.html.
 This python exercise deals with important graph data structure concepts
 and algorithms such as breadth-first search, nodes, edges, paths and 
 recursive depth-first search. 
