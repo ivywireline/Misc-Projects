@@ -1,5 +1,4 @@
-This is a project for a course in university.
-It is an Android app where it allows the nurses and physicians to record and view the information of patients
+This is an Android app where it allows the nurses and physicians to record and view the information of patients
 in the hospital. 
 
 To log in, use the information below. 
