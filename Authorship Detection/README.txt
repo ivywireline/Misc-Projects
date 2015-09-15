@@ -34,12 +34,4 @@ Douglas Adams, Emily Bronte, Fyodor Dostoevsky, James Joyce,
 Jane Austen, Lewis Caroll, Mark Twain, Sir Arthur Conan Doyle
 and William Shakespeare. 
 
-Each .stat file contains 5 numbers and they respectively
-represent the average word ength,type token ratio, 
-hapax legomena ratio, average sentence length and
-average sentence complexity in the text made by the author.
-Type token ratio and hapax legomena ratio are both measures of how repetitive the author
-uses words. The collection of these numbers creates the signature or 
-identity for the author.
 
-Link to the description of the project: http://www.cdf.toronto.edu/~csc108h/winter/assignments/a2/index.shtml
